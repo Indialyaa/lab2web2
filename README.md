@@ -5,4 +5,5 @@
 **_Kelas : TI.21.A3_** <br/>
 
 <br/>
-![1](https://user-images.githubusercontent.com/115305578/226265535-4924ca1a-3116-4909-a179-66e7af635eb5.png)
+<img src="img/Screenshots/1.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+
